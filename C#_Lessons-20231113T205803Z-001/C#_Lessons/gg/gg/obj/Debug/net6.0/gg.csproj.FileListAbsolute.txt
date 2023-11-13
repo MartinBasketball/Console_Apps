@@ -1,0 +1,14 @@
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\bin\Debug\net6.0\gg.exe
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\bin\Debug\net6.0\gg.deps.json
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\bin\Debug\net6.0\gg.runtimeconfig.json
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\bin\Debug\net6.0\gg.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\bin\Debug\net6.0\gg.pdb
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\gg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\gg.AssemblyInfoInputs.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\gg.AssemblyInfo.cs
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\gg.csproj.CoreCompileInputs.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\gg.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\refint\gg.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\gg.pdb
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\gg.genruntimeconfig.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\gg\gg\obj\Debug\net6.0\ref\gg.dll

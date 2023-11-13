@@ -1,0 +1,14 @@
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\Yahh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\Yahh.AssemblyInfoInputs.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\Yahh.AssemblyInfo.cs
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\Yahh.csproj.CoreCompileInputs.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\bin\Debug\net6.0\Yahh.exe
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\bin\Debug\net6.0\Yahh.deps.json
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\bin\Debug\net6.0\Yahh.runtimeconfig.json
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\bin\Debug\net6.0\Yahh.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\bin\Debug\net6.0\Yahh.pdb
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\Yahh.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\refint\Yahh.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\Yahh.pdb
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\Yahh.genruntimeconfig.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\Yahh\Yahh\obj\Debug\net6.0\ref\Yahh.dll

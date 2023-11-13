@@ -1,0 +1,14 @@
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\bin\Debug\net6.0\bsjhfydsgsj.exe
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\bin\Debug\net6.0\bsjhfydsgsj.deps.json
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\bin\Debug\net6.0\bsjhfydsgsj.runtimeconfig.json
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\bin\Debug\net6.0\bsjhfydsgsj.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\bin\Debug\net6.0\bsjhfydsgsj.pdb
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\bsjhfydsgsj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\bsjhfydsgsj.AssemblyInfoInputs.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\bsjhfydsgsj.AssemblyInfo.cs
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\bsjhfydsgsj.csproj.CoreCompileInputs.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\bsjhfydsgsj.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\refint\bsjhfydsgsj.dll
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\bsjhfydsgsj.pdb
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\bsjhfydsgsj.genruntimeconfig.cache
+C:\Users\2013.102398\Desktop\C#_Lessons\bsjhfydsgsj\bsjhfydsgsj\obj\Debug\net6.0\ref\bsjhfydsgsj.dll
